@@ -1,5 +1,5 @@
 jobs:
 - job: Build
   steps:
-    - script: |
+  - script: |
       echo Hello World!
